@@ -108,7 +108,7 @@ plt.show()
 
 
 
-!ls
+
 
 from google.colab import files
 
