@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
+import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 #data uploaded
 df = pd.read_csv("Heart_Disease_Prediction.csv")
